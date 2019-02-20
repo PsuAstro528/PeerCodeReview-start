@@ -24,7 +24,7 @@ After you've reviewed the code, make sure that you've provided at least one sugg
 - Style 
    - Indentation & spacing that could be improved
    - Places where an error/warning messages could be added/improved
-   - Fixing inconsistencies in coding style (e.g., [Julia Style Guide](https://docs.julialang.org/en/v1/manual/style-guide/index.html)
+   - Fixing inconsistencies in coding style (e.g., [Julia Style Guide](https://docs.julialang.org/en/v1/manual/style-guide/index.html))
 - Old code that could be removed (never reached or commented out) 
 
 ### Testing & Assertions (1 point)
